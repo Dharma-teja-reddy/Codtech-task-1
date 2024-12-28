@@ -18,3 +18,4 @@ Responsive Design: The website is mobile-friendly and adjusts its layout for dif
 
 OUTPUT 
 ![IMG-20241228-WA0004](https://github.com/user-attachments/assets/1d89b299-d600-480d-90d7-22bb63e69888)
+![IMG-20241228-WA0003](https://github.com/user-attachments/assets/0e316f43-1627-4716-aa4a-50c058bdf58b)
